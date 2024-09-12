@@ -1,4 +1,7 @@
 # Clustering Visualization
+
+[![hackmd-github-sync-badge](https://hackmd.io/hd9_lbvER5CzTDiSZbVXpw/badge)](https://hackmd.io/hd9_lbvER5CzTDiSZbVXpw)
+
 ## Table of contents
 - [UMAP Description](#UMAP_Description)
     - [Number of neighbors](#Number_of_neighbors)
